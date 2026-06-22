@@ -78,10 +78,10 @@ Buffee is a drop-in 68000 socket compatible accelerator designed to fit in the f
 
 ### Version History
 
-v0.6 "Alpha" hardware release
+v0.4 "Alpha" hardware release
 - does not work
 
-v0.7 "Beta" hardware release
+v0.5 "Beta" hardware release
 - reversed bytes lanes to unideal (correct byte, incorrect word/long)
   
 v0.8 "Beta 2" hardware
