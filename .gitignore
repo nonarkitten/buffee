@@ -1,8 +1,2 @@
 .DS_Store
 .vscode
-binaries
-pru/*.bin
-pru/*.map
-pru/*.lst
-pru/*.obj
-pru/*.out
